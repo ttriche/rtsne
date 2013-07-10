@@ -1,3 +1,0 @@
-R CMD BUILD tsne
-R CMD CHECK tsne
-R CMD INSTALL tsne

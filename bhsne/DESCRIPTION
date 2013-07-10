@@ -1,0 +1,10 @@
+Package: bhsne
+Type: Package
+Title: Barnes-Hut Stochastic Neighbor Embedding for R (bh-SNE)
+Version: 0.1
+Date: 2013-07-10
+Author: Tim Triche, Jr. <tim.triche@gmail.com>
+Maintainer: Tim Triche, Jr. <tim.triche@gmail.com>
+Description: An R wrapper for Laurens van der Maaten's BH-SNE implementation.
+License: GPL
+LazyLoad: yes
